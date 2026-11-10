@@ -27,4 +27,4 @@ Python, pandas, Streamlit, Claude API, Google Apps Script, Node.js
 
 ## Contact
 
-[LinkedIn](https://www.linkedin.com/in/ryno-jordaan/)
+[Portfolio](https://rynojor.github.io) · [LinkedIn](https://www.linkedin.com/in/ryno-jordaan/)
