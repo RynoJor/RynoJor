@@ -14,6 +14,13 @@ Found $881,884 leaking from a $1.0M pipeline (synthetic CRM data).
 - **Hygiene check:** caught 625 of 625 planted bad records.
 - **Weekly digest:** an AI-written brief where every number is checked against the data.
 
+## More projects
+
+- [n8n speed-to-lead](https://github.com/RynoJor/n8n-speed-to-lead): an inbound lead routed to an owner in about 160 ms, built in n8n.
+- [HubSpot pipeline MCP](https://github.com/RynoJor/hubspot-pipeline-mcp): ask Claude which deals are stuck. Read-only tools over HubSpot.
+- [Job hunt pipeline](https://github.com/RynoJor/job-hunt-pipeline): my job hunt run like outbound. 63% of "remote" ads weren't open to South Africa.
+- [Sheets outbound sequencer](https://github.com/RynoJor/sheets-outbound-sequencer): cold email from Google Sheets and Apps Script, with caps and stop-on-reply.
+
 ## What I build
 
 - Lead routing and scoring
@@ -23,7 +30,7 @@ Found $881,884 leaking from a $1.0M pipeline (synthetic CRM data).
 
 ## Stack
 
-Python, pandas, Streamlit, Claude API, Google Apps Script, Node.js
+Python, pandas, Streamlit, Claude API, MCP, n8n, HubSpot API, Google Apps Script, Node.js
 
 ## Contact
 
