@@ -17,6 +17,7 @@ Found $881,884 leaking from a $1.0M pipeline (synthetic CRM data).
 ## More projects
 
 - [Salesforce lead routing](https://github.com/RynoJor/salesforce-lead-routing): 200 leads routed in one transaction in about 0.8 s. Apex, Flow and a 60-minute SLA escalation, 98% test coverage.
+- [Lead enrichment waterfall](https://github.com/RynoJor/enrichment-waterfall): sources tried in order until an email is good enough to send. 74% coverage at $0.050 a lead, 35% below cheap-first.
 - [n8n speed-to-lead](https://github.com/RynoJor/n8n-speed-to-lead): an inbound lead routed to an owner in about 160 ms, built in n8n.
 - [HubSpot pipeline MCP](https://github.com/RynoJor/hubspot-pipeline-mcp): ask Claude which deals are stuck. Read-only tools over HubSpot.
 - [Job hunt pipeline](https://github.com/RynoJor/job-hunt-pipeline): my job hunt run like outbound. 63% of "remote" ads weren't open to South Africa.
